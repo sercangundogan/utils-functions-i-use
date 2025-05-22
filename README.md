@@ -3,7 +3,7 @@
 This repository includes the utility functions I frequently use in my frontend (and sometimes backend) projects. These helpers are small, reusable, and designed to save time on repetitive tasks — from string manipulation to cookie handling, URL parsing, and more.
 
 > You can read the accompanying blog post here:  
-👉 [Read on Medium](https://your-medium-post-link)
+👉 [Read on Medium](https://medium.com/@sercangundogan35/my-favorite-utility-functions-in-javascript-typescript-projects-56a839b4948d)
 
 ---
 
